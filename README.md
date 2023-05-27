@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing different data visualization tools<br>👯 I’m looking to collaborate on GIS and web mapping<br>🤝 I’m looking forward to learn backend//node.js<br>🌱 I’m currently learning D3 and vue.js<br>💬 Ask me about C, python, java and javascript<br>⚡ Fun fact ronaldo is better than messi (classic)
+🔭 I’m currently working on making a meal planning page/app<br>☠️ I’m looking to find a date to make myself learn DSA<br>🤝 one-day node.js will be at my fingertips <br>🌱 I’m currently learning D3 and vue.js<br>💬 Ask me about C, python, java and javascript<br>⚡ I also like creating stuff videos and music
 
 
 ## 🌐 Socials:
