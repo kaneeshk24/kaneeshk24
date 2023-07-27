@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 🔭 I’m currently working on making a meal planning page/app<br>☠️ I’m looking to find a date to make myself learn DSA<br>🤝 one-day node.js will be at my fingertips <br>🌱 I’m currently learning D3 and vue.js<br>💬 Ask me about C, python, java and javascript<br>⚡ I also like creating stuff videos and music
 
 
